@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Corinne Jones
 tagline:          'Home'
-description:      '<a href="mailto:cjones6@uw.edu">cjones6@uw.edu</a>  <br /> <a href="https://github.com/cjones6" target="_blank"> https://github.com/cjones6 </a>'
-url:              http://www.stat.washington.edu/~cjones6
-baseurl:          /~cjones6/
+description:      '<a href="mailto:corinne.jones@epfl.ch">corinne.jones@epfl.ch</a>  <br /> <a href="https://github.com/cjones6" target="_blank"> https://github.com/cjones6 </a>'
+url:              http://cjones6.github.io
+baseurl:          /
 
 author:
   name:           'Corinne Jones'
