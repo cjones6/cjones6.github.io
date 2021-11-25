@@ -4,7 +4,7 @@ title: Research
 order: 2
 ---
 
-I'm currently working on machine learning projects in neuroscience with Professor [Sahand Rahi](https://www.epfl.ch/labs/lpbs/professor-rahi/) and economics with Professor [Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2NTM0.TGlzdC8yODk2LC0yMDgyMjgwMDQ4.html). Various other projects I've worked on are listed below, organized by application area. My PhD dissertation may be found [here](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/46581/Jones_washington_0250E_22188.pdf?sequence=1&isAllowed=y).
+I'm currently working on machine learning projects in neuroscience with Professor [Sahand Rahi](https://www.epfl.ch/labs/lpbs/professor-rahi/) and in economics with Professor [Peter Egger](https://mtec.ethz.ch/people/person-detail.MTY2NTM0.TGlzdC8yODk2LC0yMDgyMjgwMDQ4.html). Various other projects I've worked on are listed below, organized by application area. My PhD dissertation may be found [here](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/46581/Jones_washington_0250E_22188.pdf?sequence=1&isAllowed=y).
 
 ### Statistical machine learning for any domain
 Recently many papers have focused on achieving the best possible performance in a common domain-specific semi-supervised learning task. In this work we instead introduce approaches to end-to-end learning that allow one to jointly learn feature representations from unlabeled data (with or without labeled data) and learn the labels in a domain-agnostic manner. The proposed approaches can be used on any amount of labeled and unlabeled data, gracefully adjusting to the amount of supervision. 
@@ -26,7 +26,8 @@ ConvNets are typically viewed as different in essence from kernel-based methods.
 ### Statistical machine learning for marine ecology
 Oceanographers at the University of Washington are studying phytoplankton, organisms that are responsible for 50% of the total photosynthesis on Earth. We developed a change-point algorithm that may one day be embedded on board their research vessels to help them adapt their models and data collection in real time. The algorithm will also be used in retrospective analyses. Our work was featured on the UW eScience [website](http://escience.washington.edu/shifts-in-marine-microbial-populations-detected-using-statistical-machine-learning/).
 
-- Corinne Jones, Sophie Clayton, Francois Ribalet, E. Virginia Armbrust, and Zaid Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry.  *Methods in Ecology and Evolution*, 12, 1687-1698, 2021.
+- Corinne Jones, Sophie Clayton, Francois Ribalet, E. Virginia Armbrust, and Zaid Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry.  *Methods in Ecology and Evolution*, 12, 1687-1698, 2021.  
+[[paper]](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13647) [[code]](https://github.com/cjones6/cytosegmenter)
 
 ### Statistical analysis of meteorological models
 The effects of a weather model's parameters on the model's forecasts are not well-understood. In this work we performed a sensitivity analysis of the parameters of the COAMPS weather model on the spatial structure of its forecasts. Ideally, we would eventually be able to tune the parameters to improve forecasts.
