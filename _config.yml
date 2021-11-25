@@ -6,21 +6,21 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            Corinne Jones
+tagline:          'Home'
+description:      '<a href="mailto:cjones6@uw.edu">cjones6@uw.edu</a>  <br /> <a href="https://github.com/cjones6" target="_blank"> https://github.com/cjones6 </a>'
+url:              http://www.stat.washington.edu/~cjones6
+baseurl:          /~cjones6/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Corinne Jones'
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-gems: [jekyll-paginate]
+version:          1.0
+plugins: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/cjones6
+
