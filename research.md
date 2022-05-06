@@ -9,9 +9,11 @@ I'm currently working on machine learning projects in neuroscience with Professo
 ### Statistical machine learning for any domain
 Recently many papers have focused on achieving the best possible performance in a common domain-specific semi-supervised learning task. In this work we instead introduce approaches to end-to-end learning that allow one to jointly learn feature representations from unlabeled data (with or without labeled data) and learn the labels in a domain-agnostic manner. The proposed approaches can be used on any amount of labeled and unlabeled data, gracefully adjusting to the amount of supervision. 
 
-- Corinne Jones, Vincent Roulet, and Zaid Harchaoui. Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data. Accepted at *Statistics and Computing*.  
+- Corinne Jones, Vincent Roulet, and Zaid Harchaoui. Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data. *Statistics and Computing*, 2022.  
 [[paper]](https://arxiv.org/pdf/1912.12979.pdf) [[poster]](https://cjones6.github.io/public/xsdc_poster.pdf) [[code]](https://github.com/cjones6/xsdc)  
 *Winner of the 2020 ASA Computing/Graphics Student Paper [Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition)* 
+
+- Vincent Roulet, Corinne Jones, and Zaid Harchaoui. A Representation-Focused Training Algorithm for Deep Networks. *IEEE Data Science & Learning Workshop*, 2022 (to appear).  
 
 - Corinne Jones and Zaid Harchaoui. End-to-end Learning for Retrospective Change-point Estimation. In *Proceedings of the IEEE
 International Workshop on Machine Learning for Signal Processing*, 2020.  
