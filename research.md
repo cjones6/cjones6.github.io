@@ -13,7 +13,8 @@ Recently many papers have focused on achieving the best possible performance in 
 [[paper]](https://arxiv.org/pdf/1912.12979.pdf) [[poster]](https://cjones6.github.io/public/xsdc_poster.pdf) [[code]](https://github.com/cjones6/xsdc)  
 *Winner of the 2020 ASA Computing/Graphics Student Paper [Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition)* 
 
-- Vincent Roulet, Corinne Jones, and Zaid Harchaoui. A Representation-Focused Training Algorithm for Deep Networks. *IEEE Data Science & Learning Workshop*, 2022.  [[paper]](https://ieeexplore.ieee.org/document/9820431)
+- Vincent Roulet, Corinne Jones, and Zaid Harchaoui. A Representation-Focused Training Algorithm for Deep Networks. *IEEE Data Science & Learning Workshop*, 2022.   
+[[paper]](https://ieeexplore.ieee.org/document/9820431)
 
 - Corinne Jones and Zaid Harchaoui. End-to-end Learning for Retrospective Change-point Estimation. In *Proceedings of the IEEE
 International Workshop on Machine Learning for Signal Processing*, 2020.  
