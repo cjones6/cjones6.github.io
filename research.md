@@ -8,7 +8,7 @@ I'm currently working on a diverse set of machine learning projects, including p
 
 
 ### Machine learning for neuroscience
-Recent advances in 3D microscopy allow for recording the neurons in freely-moving *C. elegans* at high frame rates. In order to be able to study the calcium activity in the neurons, it is necessary to be able to track the individual neurons from frame to frame. However, doing this by hand for tens of neurons in a single ten-minute recording requires more than a hundred hours. Moreover, most methods proposed in the literature for tracking neurons focus on immobilized or partially-immobilized worms and fail to generalize to the freely-moving-worm setting. In this work we propose methods for automated tracking of neurons in freely-moving worms in the setting where a subset of neurons are marked with red fluorescence.
+Recent advances in 3D microscopy allow for recording the neurons in freely-moving *C. elegans* at high frame rates. In order to be able to study the calcium activity in the neurons, it is necessary to be able to track the individual neurons from frame to frame. Most automated methods proposed in the literature for tracking neurons focus on immobilized or partially-immobilized worms and fail to generalize to the freely-moving-worm setting. In this work we propose methods for automated tracking of neurons in freely-moving worms in the setting where a subset of neurons are marked with red fluorescence.
 
 - Corinne Jones, Mahsa Barzegar Keshteli, Alice Gross, Guillaume Obozinski, and Sahand Jamal Rahi. A Graph Matching Approach to Tracking Neurons in Freely-Moving *C. elegans.* Submitted.  
 - Core Francisco Park, Mahsa Barzegar Keshteli, Kseniia Korchagina, Ariane Delrocq, Vladislav Susoy, Corinne Jones, Aravinthan D. T. Samuel, and Sahand Jamal Rahi. Automated neuron tracking inside moving and deforming *C. elegans* using deep learning and targeted augmentation. Accepted at *Nature Methods.*  
@@ -63,7 +63,7 @@ Economic models of multi-product firms have historically mainly focused on how m
 
 I encountered the same Chinese exports dataset when I was an undergraduate. My undergraduate thesis examined the factors that contribute to the extent of [exchange rate pass-through](https://en.wikipedia.org/wiki/Exchange-rate_pass-through) for goods exported by Chinese firms. My advisor was [Kala Krishna](https://sites.google.com/site/kalakrishnapsu/).
 
-- Peter Egger and Corinne Jones (2023). Co-Exportation of Products by Multi-Product Firms.  
+- Peter Egger and Corinne Jones. Co-Exportation of Products by Multi-Product Firms. 2023.  
 [[paper]](https://virtual.oxfordabstracts.com/#/event/3533/submission/156)  
-- Corinne L. Jones. "Exchange rate pass-through: Evidence from China." 2014.
+- Corinne Jones. Exchange rate pass-through: Evidence from China. 2014.
 
